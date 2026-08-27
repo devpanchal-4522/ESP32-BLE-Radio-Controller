@@ -19,6 +19,3 @@ Designed primarily as a versatile command center for custom engineering projects
 - Omnidirectional rovers and robotic arms
 - Drone and UAV payload triggers
 - Remote industrial mechanism testing
-
-> Repository Structure:
-1. `/src` - Contains the ESP32 source code (`.ino` / `.cpp`)
