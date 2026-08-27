@@ -1,4 +1,5 @@
-Custom ESP32 BLE Remote Controller
+# Custom ESP32 BLE Remote Controller
+
 A robust, low-latency wireless controller designed to bring reliable Bluetooth Low Energy (BLE) control to robotics, drones, and custom embedded systems. Built around the ESP32 WROOM 32, this project replaces bulky, off-the-shelf RC transmitters with a highly customizable, rechargeable control hub.
 
 > Key Features:
